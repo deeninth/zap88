@@ -1,0 +1,70 @@
+body {
+    font-family: "SukhumvitTadmai";
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #FFF;
+    background: url(../img/bg-login.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /* background-color: #000000; */
+}
+
+.bg-login {
+    /* background: url();
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+a {
+    color: #FFF;
+}
+
+.header-bg {
+    background: transparent linear-gradient(359deg, #000000 0%, #404040 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+a .header-bg {
+    font-size: 0.9rem;
+}
+
+.logo {
+    width: 250px;
+    height: 45px;
+}
+
+.bg-header {
+    background-color: #000;
+    background-image: url(../img/img1.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.bg-selection {
+    background-color: #000;
+    background-image: url(../img/img2.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.card-gtr {
+    background: transparent linear-gradient(360deg, #000000 0%, #404040 100%) 0% 0% no-repeat padding-box;
+    border-radius: 34px;
+    opacity: 1;
+}
+
+.btn-login {
+    background: transparent linear-gradient(180deg, #10BF01 0%, #0F4300 100%) 0% 0% no-repeat padding-box;
+    border: 1px solid #10BF01;
+    border-radius: 15px;
+    opacity: 1;
+    color: #FFF;
+}
