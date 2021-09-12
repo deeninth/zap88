@@ -11,6 +11,7 @@
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
+    <script src="https://kit.fontawesome.com/c22b543311.js" crossorigin="anonymous"></script>
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -27,7 +28,7 @@
     <div id="app">
         <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top header-bg" id="mainNav">
             <div class="container">
-                <img src="img/logo-gtr.png" class="logo"/>
+                <img src="img/urn_aaid_sc_US_e464fce4-3e43-4ca4-936d-b4eb554c6338 (4).webp" class="logo"/>
                 <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     MENU
                     <i class="fas fa-bars"></i>
